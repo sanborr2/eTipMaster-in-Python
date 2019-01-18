@@ -1,0 +1,1 @@
+numGuests | numCocktails | numFloor | costOfMeal | headTax | floorTax | cocktailDiscount | totalTip | roundedTip
